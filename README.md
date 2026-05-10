@@ -67,3 +67,6 @@ To get the program running on your machine, use these commands:
 * **Performance Check:** The conflict check can get slower if you have a huge number of events.
 * **Storage:** The whole file is rewritten every time a change is made.
 * **Single User:** Everyone who runs the program shares the same calendar.
+
+* **Demo Media Link**
+https://mediaspace.umn.edu/media/t/1_w9bksdob
